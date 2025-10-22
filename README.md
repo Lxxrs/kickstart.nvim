@@ -1,4 +1,5 @@
-# kickstart.nvim
+# my kickstart.nvim fork
+You can find the origin repository from [nvim-lua](https://github.com/nvim-lua) [here](https://github.com/nvim-lua/kickstart.nvim).
 
 ## Introduction
 
