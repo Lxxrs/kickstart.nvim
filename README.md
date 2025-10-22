@@ -35,13 +35,13 @@ External Requirements:
   - etc.
 
 > [!NOTE]
-> See [Install Recipes](#Install-Recipes) for additional Windows and Linux specific notes
+> See [Install Recipes](#install-recipes) for additional Windows and Linux specific notes
 > and quick install snippets
 
 ### Install Kickstart
 
 > [!NOTE]
-> [Backup](#FAQ) your previous configuration (if any exists)
+> [Backup](#faq) your previous configuration (if any exists)
 
 Neovim's configurations are located under the following paths, depending on your OS:
 
